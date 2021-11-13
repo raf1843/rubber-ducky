@@ -1,0 +1,15 @@
+REM Deploy calling card script. Author: Raina
+DELAY 1000
+WAIT_FOR_PRESENT
+GUI r
+DELAY 100
+STRING notepad.exe
+ENTER
+DELAY 100
+STRING quack quack
+CTRL S
+GUI r
+DELAY 100
+STRING https://www.youtube.com/watch?v=MtN1YnoL46Q
+ENTER
+DELAY 100

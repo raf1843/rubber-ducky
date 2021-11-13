@@ -1,0 +1,11 @@
+REM Deploy calling card script. Author: Raina
+DELAY 1000
+WAIT_FOR_PRESENT
+ALT F2
+DELAY 100
+STRING echo "quack quack" > ./Desktop/quackpack.txt
+ENTER
+DELAY 100
+STRING python3 -mwebbrowser https://www.youtube.com/watch?v=MtN1YnoL46Q
+ENTER
+DELAY 100
