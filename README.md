@@ -1,5 +1,5 @@
 # rubber-ducky
-Work in RITSEC mentorship program on rubber ducky tool
+Work in RITSEC mentorship program on creating rubber ducky tool from a digispark USB enabled with Arduino
 
 Week 1 - Research on rubber duckies  
 Week 2 - Write a script for both Windows (.bat) and Linux (.bash) as a proof of entry/calling card  
